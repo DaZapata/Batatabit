@@ -1,0 +1,18 @@
+/* luego de poner el link en el html ponemos este lnea para que centre el contenido cuando llegue a 930px */
+.main-tables-container {
+    display: flex;
+    width: 930px;
+    margin: 40px auto;
+}
+.product-cards--container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.plans-container--slider {
+    justify-content: center;
+}
+
+
